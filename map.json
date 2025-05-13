@@ -1,0 +1,14 @@
+{
+  "notes": [
+    {
+      "title": "BFS Algorithm",
+      "description": "Breadth First Search explanation with graph example.",
+      "link": "https://drive.google.com/file/d/1F-lR7WVOuqGMJs2KS_JOsoUS98jps-2j/view?usp=drive_link"
+    },
+    {
+      "title": "DFS Algorithm",
+      "description": "Depth First Search with stack-based explanation.",
+      "link": "https://drive.google.com/uc?export=download&id=YOUR_FILE_ID"
+    }
+  ]
+}
